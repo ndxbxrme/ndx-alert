@@ -1,0 +1,20 @@
+{
+  "name": "ndx-alert",
+  "description": "Popup alerts for ndx-framework apps",
+  "main": "build/index.js",
+  "authors": [
+    "ndxbxrme"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ndxbxrme/ndx-alert",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "humane-js": "humane#^3.2.2"
+  }
+}
